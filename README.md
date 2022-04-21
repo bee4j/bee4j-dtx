@@ -1,2 +1,2 @@
 # bee4j-dtx
-Distributed Transaction Center
+Distributed Transaction Center.
